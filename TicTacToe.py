@@ -1,3 +1,9 @@
+#Purpose of this project is to play a game of tic tac toe where player x inserts his point onto the grid 
+#and player O inserts his point onto the grid. It will keep on going unless if one of the players get 3
+#in a row horizontally, vertically, or diagonally or else it will result to a tie.
+
+
+
 # --------- Global Variables -----------
 board = ["-", "-", "-",
          "-", "-", "-",
